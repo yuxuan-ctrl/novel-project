@@ -1,0 +1,22 @@
+{
+  "run_info": {
+    "timestamp": "2025-12-22 20:00:00",
+    "chapters": "1-5",
+    "flow_type": "anime_fullflow_skip_image",
+    "description": "网文改编动漫制作流程 - 第1-5章，跳过图像生成，止于视频提示词",
+    "status": "in_progress",
+    "steps": [
+      "小说内容读取",
+      "剧本生成",
+      "图像提示词生成",
+      "视频提示词生成"
+    ]
+  },
+  "chapters_processed": [],
+  "current_step": "初始化完成",
+  "output_files": {
+    "scripts": [],
+    "image_prompts": [],
+    "video_prompts": []
+  }
+}

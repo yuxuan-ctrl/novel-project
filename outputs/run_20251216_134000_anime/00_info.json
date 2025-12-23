@@ -1,0 +1,31 @@
+{
+  "run_info": {
+    "run_id": "run_20251216_134000",
+    "type": "anime_script_generation",
+    "chapters_processed": "1-10",
+    "processing_mode": "script_only",
+    "date": "2025-12-16",
+    "time": "13:40:00"
+  },
+  "status": {
+    "total_chapters": 10,
+    "completed_scripts": 10,
+    "status": "completed"
+  },
+  "output_structure": {
+    "scripts_directory": "outputs/run_20251216_134000_anime/01_scripts/",
+    "generated_files": [
+      "Episode-01.md - 血祭觉醒",
+      "Episode-02.md - 封神榜的真相",
+      "Episode-03.md - 该上榜的人，还没死",
+      "Episode-04.md - 陈塘关，命数开始加速",
+      "Episode-05.md - 异常变量",
+      "Episode-06.md - 第一次干预",
+      "Episode-07.md - 龙宫来客",
+      "Episode-08.md - 程序员vs龙族",
+      "Episode-09.md - 天庭之眼",
+      "Episode-10.md - 混沌降生"
+    ]
+  },
+  "notes": "已根据用户要求，仅生成剧本部分，未进行图像提示词生成和图像制作。"
+}

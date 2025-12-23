@@ -1,0 +1,838 @@
+[
+  {
+    "scene_id": "scene_001",
+    "frame_type": "start",
+    "place": "陈塘关外官道",
+    "time": "三十天后，阴云低垂",
+    "characters": ["林渊"],
+    "action": "林渊站在官道尽头",
+    "emotion": "警惕",
+    "dialogues": ["【林渊】：这里，会出事。"],
+    "narration": "陈塘关外，阴云低垂，林渊站在官道尽头，看着那座城池",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊与城池"
+    },
+    "character_layout": "林渊站在画面左侧，身体微微前倾看着远处，远处是陈塘关的城池轮廓",
+    "background_pure": "阴云低垂的天空，官道尽头是陈塘关城门，周围是荒凉的土地"
+  },
+  {
+    "scene_id": "scene_001",
+    "frame_type": "end",
+    "place": "陈塘关外官道",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊看到系统信息",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】区域：陈塘关，因果密度：异常升高，气运波动：剧烈，神位关联：锁定中，备注：重要节点临近",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告信息",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的陈塘关景象"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "start",
+    "place": "陈塘关外官道",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊眯眼分析",
+    "emotion": "冷静分析",
+    "dialogues": ["【独白】：不是即将出事，而是已经在加速了。"],
+    "narration": "林渊眯起眼，这地方像极了一段即将崩溃的核心代码",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眉头微皱，眼中闪烁着冷静分析的光芒",
+    "background_pure": "背景是模糊的陈塘关景象"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["守军"],
+    "action": "守军喝止",
+    "emotion": "警惕",
+    "dialogues": ["【守军】：站住！"],
+    "narration": "一声暴喝忽然响起，几名身披甲胄的军士从城门口快步走来",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan right",
+      "focus": "守军"
+    },
+    "character_layout": "几名守军从画面右侧走入，身穿甲胄，手持长枪，神情警惕",
+    "background_pure": "陈塘关城门口，青石板铺就的地面，城门高耸"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["守军"],
+    "action": "守军盘查",
+    "emotion": "警惕、严肃",
+    "dialogues": ["【守军】：来者何人？陈塘关近日封城，闲杂人等不得入内！"],
+    "narration": "长枪横指，目光警惕",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "守军"
+    },
+    "character_layout": "守军站在画面中央，长枪横指，神情严肃警惕",
+    "background_pure": "陈塘关城门口，青石板地面，城门高耸，远处有人群"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊看到系统提示",
+    "emotion": "冷静",
+    "dialogues": [],
+    "narration": "【系统面板】目标：陈塘关守军，状态：紧张，命数倾向：被动参与事件，备注：非核心变量",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，守军身上浮现淡淡的信息标记",
+    "background_pure": "视野中央是守军，周围是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊回答",
+    "emotion": "平静",
+    "dialogues": ["【林渊】：路过。想进城歇歇脚。"],
+    "narration": "林渊随口答道",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在画面左侧，神情平静，身穿破旧灰色囚服",
+    "background_pure": "城门口环境，守军在前方"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["守军"],
+    "action": "守军冷笑劝退",
+    "emotion": "轻蔑",
+    "dialogues": ["【守军】：歇脚？你没听说吗？近来城中不太平。", "【守军】：龙王震怒，海妖作乱，城主下令严查。", "【守军】：识相的，掉头走。"],
+    "narration": "守军冷笑一声劝退",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "守军"
+    },
+    "character_layout": "守军站在画面中央，神情轻蔑，摆手示意",
+    "background_pure": "城门口环境"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊心头一动",
+    "emotion": "警觉",
+    "dialogues": [],
+    "narration": "龙王？林渊心头一动，这个词一出现，他眼前的信息瞬间刷新",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字刷新显示",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊理解龙王关键词",
+    "emotion": "顿悟",
+    "dialogues": [],
+    "narration": "【系统面板】关键词触发：龙族，关联神位：水系神职，名额状态：部分已预定",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示关联信息",
+    "background_pure": "视野中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊确定陈塘关是风暴中心",
+    "emotion": "确定",
+    "dialogues": [],
+    "narration": "林渊终于确定了，陈塘关已经成为风暴的中心",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在画面中央，神情变得确定，眼神锐利",
+    "background_pure": "背景是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊意识到时间不对",
+    "emotion": "警觉",
+    "dialogues": ["【独白】：只是——时间不太对。原本按照封神既定流程，龙宫与陈塘关的矛盾，应该在某个恰到好处的时间点爆发。可现在，这个时间点，明显提前了。"],
+    "narration": "林渊低声念了一句",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眉头微皱，眼中闪烁着警觉的光芒",
+    "background_pure": "背景是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊理解加速含义",
+    "emotion": "理解",
+    "dialogues": ["【林渊】：提前加速..."],
+    "narration": "这意味着什么，林渊再清楚不过",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在画面中央，神情冷静分析",
+    "background_pure": "背景是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊得出结论",
+    "emotion": "确定",
+    "dialogues": ["【独白】：有人在急。不是凡人，也不是妖族——而是那套负责填满神位名额的系统本身。"],
+    "narration": "林渊得出结论",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着确定的光芒",
+    "background_pure": "背景是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": [],
+    "action": "城内传来骚动",
+    "emotion": "紧张",
+    "dialogues": ["【路人】：让开！都让开！", "【路人】：李府出事了！"],
+    "narration": "就在他思索的片刻，城门内忽然传来一阵骚动",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan left",
+      "focus": "城门内"
+    },
+    "character_layout": "城门内有人群骚动，人们慌乱奔跑",
+    "background_pure": "陈塘关街道，青石板地面，两旁是建筑"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊命数线猛震",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "这句话一出，林渊视野里的命数线猛地一震",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Shake",
+      "focus": "命数线"
+    },
+    "character_layout": "画面呈现林渊的主观视角，命数线剧烈震颤，亮起刺目红光",
+    "background_pure": "视野中央是震颤的命数线"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊看到系统提示",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】核心命数目标：李靖府，状态：异常波动，气运输出：剧变，重要节点：加速中",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告信息",
+    "background_pure": "视野中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊心脏猛跳",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "林渊心脏狠狠一跳，还没见人，命数就开始暴走",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，瞳孔放大，眼中闪烁着震惊的光芒",
+    "background_pure": "背景是模糊的城门环境"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "start",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["守军"],
+    "action": "守军听闻消息冲回城",
+    "emotion": "焦急",
+    "dialogues": [],
+    "narration": "守军显然也听到了消息，神色一变，再顾不上盘查林渊，匆匆调头冲回城中",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Track",
+      "focus": "守军"
+    },
+    "character_layout": "守军转身冲向城内，神情焦急",
+    "background_pure": "陈塘关街道"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "end",
+    "place": "陈塘关城门口",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊走进城",
+    "emotion": "决断",
+    "dialogues": [],
+    "narration": "城门大开，林渊没有犹豫，抬脚便走了进去",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Track",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊穿过城门走进陈塘关，神情坚定",
+    "background_pure": "陈塘关城门洞，青石板地面"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "start",
+    "place": "陈塘关街道",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊踏入城内",
+    "emotion": "警觉",
+    "dialogues": [],
+    "narration": "一踏入城内，他便清楚地感觉到——空气不一样了",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在陈塘关街道上，神情警觉，环顾四周",
+    "background_pure": "陈塘关街道，两旁是建筑，地面是青石板"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "end",
+    "place": "陈塘关街道",
+    "time": "三十天后",
+    "characters": ["百姓们"],
+    "action": "百姓们惶恐议论",
+    "emotion": "惶恐",
+    "dialogues": ["【百姓】：听说了吗？李总兵夫人有喜了！", "【百姓】：可是这喜事来得不是时候啊...", "【百姓】：龙宫那边正闹得凶，这孩子..."],
+    "narration": "街道两侧的百姓神色惶恐，不断有人低声议论",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Eye-level",
+      "movement": "Pan",
+      "focus": "百姓群像"
+    },
+    "character_layout": "街道两旁的百姓聚集在一起低声议论，神情惶恐",
+    "background_pure": "陈塘关街道，两旁是建筑"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "start",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊来到李府外",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "林渊顺着人流，很快来到了李府外，府门前已经围满了人",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "李府外观"
+    },
+    "character_layout": "林渊站在人群外围，李府门前围满了人",
+    "background_pure": "李府大门，建筑宏伟，周围是人群"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "end",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊视野被信息淹没",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "就在那一瞬间，他的视野彻底被信息淹没",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，无数金色系统文字涌现",
+    "background_pure": "视野被金色系统文字填满"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "start",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊看到系统分析",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【系统面板】命数交汇点：确认，神位名额绑定中，因果负载：急剧上升，警告：当前进程存在强制推进迹象",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示分析结果",
+    "background_pure": "视野中央是清晰的金色系统文字，红色警告闪烁"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "end",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊得出结论",
+    "emotion": "确定",
+    "dialogues": ["【林渊】：果然...封神榜在催。它在逼。逼哪吒尽快来到这个世界，走到那个必须死的位置上。"],
+    "narration": "林渊轻轻呼出一口气",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，神情冷静而深刻",
+    "background_pure": "背景是模糊的李府和人群"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "start",
+    "place": "陈塘关李府内",
+    "time": "三十天后",
+    "characters": [],
+    "action": "府内传来妇人惊呼",
+    "emotion": "紧张",
+    "dialogues": [],
+    "narration": "就在这时，府内忽然传来一声妇人的惊呼",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan right",
+      "focus": "李府内部"
+    },
+    "character_layout": "画面没有具体人物，展现李府内部的场景",
+    "background_pure": "李府内部，建筑华丽，庭院深深"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "end",
+    "place": "陈塘关李府",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊看到系统提示",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】重要节点触发：哪吒降生进程启动，预计时间：10天后，警告：此进程存在异常加速可能",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示进程信息",
+    "background_pure": "视野中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "start",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊瞳孔骤缩",
+    "emotion": "震惊",
+    "dialogues": ["【独白】：替代路径？封神榜在试图——制造新的降生方式！"],
+    "narration": "林渊瞳孔骤缩，意识到封神榜在做什么",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，瞳孔放大，眼中闪烁着震惊的光芒",
+    "background_pure": "背景是模糊的李府环境"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "end",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊理解封神榜意图",
+    "emotion": "愤怒",
+    "dialogues": ["【独白】：只要哪吒出生，怎么生，其实没那么重要。"],
+    "narration": "林渊理解了封神榜的意图",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在人群外，神情变得愤怒",
+    "background_pure": "李府门前，围满的人群"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "start",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊看到风险提示",
+    "emotion": "愤怒",
+    "dialogues": [],
+    "narration": "【系统面板】检测到胎儿生命体征异常，状态：被强制催熟，风险：载体崩溃概率87%",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示风险警告",
+    "background_pure": "视野中央是清晰的金色系统文字，红色数字87%格外醒目"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "end",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊心脏猛沉",
+    "emotion": "愤怒",
+    "dialogues": ["【独白】：87%！这是要逼死殷夫人！为了按时完成KPI，连基本人性都不要了？"],
+    "narration": "林渊的心脏猛地一沉",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着愤怒的光芒，拳头握紧",
+    "background_pure": "背景是模糊的李府环境"
+  },
+  {
+    "scene_id": "scene_017",
+    "frame_type": "start",
+    "place": "陈塘关李府外",
+    "time": "三十天后",
+    "characters": ["林渊"],
+    "action": "林渊眼中闪过杀意",
+    "emotion": "愤怒、决心",
+    "dialogues": ["【林渊】：既然你们这么想玩...", "【林渊】：那我就陪你们玩到底！", "【林渊】：不过游戏规则——由我来定！"],
+    "narration": "林渊眼中闪过冰冷的杀意",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着冰冷的杀意和决心的光芒",
+    "background_pure": "背景是模糊的李府环境"
+  },
+  {
+    "scene_id": "scene_017",
+    "frame_type": "end",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊站在窗前",
+    "emotion": "冷静观察",
+    "dialogues": [],
+    "narration": "客栈的房间比想象中安静，林渊站在窗前，从这个角度能清晰地看见李府后院的动静",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在窗前，背影侧对画面，看着窗外",
+    "background_pure": "客栈房间，透过窗户可以看到远处的李府"
+  },
+  {
+    "scene_id": "scene_018",
+    "frame_type": "start",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊看到李府气运漩涡",
+    "emotion": "观察",
+    "dialogues": [],
+    "narration": "那里笼罩着一层普通人看不见的气运漩涡，像一张正在收紧的网",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "李府景象"
+    },
+    "character_layout": "画面呈现林渊的主观视角，李府上空笼罩着旋转的气运漩涡",
+    "background_pure": "李府建筑清晰可见，上方是旋转的气运漩涡"
+  },
+  {
+    "scene_id": "scene_018",
+    "frame_type": "end",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊看到系统信息",
+    "emotion": "警觉",
+    "dialogues": [],
+    "narration": "【系统面板】区域：陈塘关·天字三号房，因果线密度：89%，比昨日又提升了2%",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示信息",
+    "background_pure": "视野中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_019",
+    "frame_type": "start",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊分析加速速度",
+    "emotion": "冷静",
+    "dialogues": ["【林渊】：加速得真快...从昨日进城时的87%到今日的89%，仅仅过了一夜。"],
+    "narration": "林渊低声自语",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在窗前，神情冷静分析",
+    "background_pure": "客栈房间，窗外是李府景象"
+  },
+  {
+    "scene_id": "scene_019",
+    "frame_type": "end",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊计算临界时间",
+    "emotion": "警觉",
+    "dialogues": ["【林渊】：按照这个速度...最多三天，漩涡就会达到临界状态。"],
+    "narration": "林渊快速计算着",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着计算和警觉的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_020",
+    "frame_type": "start",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊看到系统警告",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】警告：系统负载持续攀升，当前负载：97.8%，错误率：每秒12次，预计：48小时内将出现不可逆损伤",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告，红色数字醒目",
+    "background_pure": "视野中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_020",
+    "frame_type": "end",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊眼中闪过狠厉",
+    "emotion": "愤怒、决心",
+    "dialogues": ["【林渊】：不可逆损伤...封神榜，你这是在逼我出手！"],
+    "narration": "林渊眼中闪过一丝狠厉",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着愤怒和决心的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_021",
+    "frame_type": "start",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊翻开笔记本",
+    "emotion": "思考",
+    "dialogues": [],
+    "narration": "林渊翻开随身携带的笔记本，上面画满了各种流程图和时序图",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "笔记本"
+    },
+    "character_layout": "林渊坐在桌前，翻开笔记本，笔记本上密密麻麻的批注",
+    "background_pure": "客栈房间，简单的家具，光线透过窗户照进来"
+  },
+  {
+    "scene_id": "scene_021",
+    "frame_type": "end",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊看到计划列表",
+    "emotion": "决断",
+    "dialogues": [],
+    "narration": "计划A：修改时间流速参数，计划B：注入虚假因果线，计划C：直接攻击系统核心，每一个计划都意味着与整个天道为敌",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "笔记本内容"
+    },
+    "character_layout": "笔记本内容特写，三个计划清晰列出",
+    "background_pure": "笔记本纸张，密密麻麻的字迹"
+  },
+  {
+    "scene_id": "scene_022",
+    "frame_type": "start",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊手指停在计划C上",
+    "emotion": "决断",
+    "dialogues": ["【林渊】：那就...来一场豪赌！"],
+    "narration": "林渊的手指停在计划C上",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊坐在桌前，手指停在笔记本上，神情决断",
+    "background_pure": "客栈房间"
+  },
+  {
+    "scene_id": "scene_022",
+    "frame_type": "end",
+    "place": "陈塘关客栈房间",
+    "time": "次日",
+    "characters": ["林渊"],
+    "action": "林渊合上笔记本",
+    "emotion": "决心",
+    "dialogues": [],
+    "narration": "林渊合上笔记本，眼神坚定",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着坚定和决心的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  }
+]

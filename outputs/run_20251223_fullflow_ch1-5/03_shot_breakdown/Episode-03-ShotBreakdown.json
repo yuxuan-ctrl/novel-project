@@ -1,0 +1,724 @@
+[
+  {
+    "scene_id": "scene_001",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜，一片死寂",
+    "characters": ["修士尸体"],
+    "action": "炼气期修士倒在血泊中",
+    "emotion": "死亡",
+    "dialogues": [],
+    "narration": "那名炼气期修士倒在血泊里，双眼圆睁，死不瞑目",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "修士尸体"
+    },
+    "character_layout": "修士尸体躺在画面中央的地上，双眼圆睁，身上是破损的青色长袍，周围是一摊血迹",
+    "background_pure": "矿场废墟，破碎的阵法纹路，粗糙的石壁，洞顶昏暗"
+  },
+  {
+    "scene_id": "scene_001",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊靠在破碎阵纹旁",
+    "emotion": "虚弱但庆幸",
+    "dialogues": ["【杂役】：仙...仙师死了？"],
+    "narration": "林渊靠在破碎的阵纹旁，胸口剧烈起伏，浑身像被拆散又重新拼回去一样",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan right",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊靠在墙边，脸色苍白，呼吸急促，但眼中闪烁着庆幸的光芒",
+    "background_pure": "矿场废墟，远处是修士的尸体，近处是破碎的阵法纹路"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["杂役们"],
+    "action": "杂役们发抖不敢相信",
+    "emotion": "惊恐、不敢置信",
+    "dialogues": [],
+    "narration": "阵外，杂役声音发抖，几乎不敢相信眼前发生的一切",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "杂役群像"
+    },
+    "character_layout": "几名杂役站在远处，瑟瑟发抖，不敢靠近，脸上带着惊恐的表情",
+    "background_pure": "矿场废墟，地面是破碎的阵法纹路，远处是修士的尸体"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看向修士尸体",
+    "emotion": "冷静观察",
+    "dialogues": [],
+    "narration": "林渊没有理会周围的惊恐目光，强撑着坐起身，看向那名修士的尸体",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊视线"
+    },
+    "character_layout": "林渊坐在画面中央，身体虚弱但目光坚定，看向远处的修士尸体",
+    "background_pure": "矿场废墟，远处是修士的尸体，周围是破碎的阵法纹路"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊视野发生变化",
+    "emotion": "观察",
+    "dialogues": [],
+    "narration": "下一瞬，林渊的视野再次发生变化，一行行清晰而冰冷的信息浮现在尸体之上",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，修士尸体上方浮现金色文字：【目标：炼气期修士，状态：死亡】",
+    "background_pure": "视野中央是修士尸体，上方是金色系统文字，周围是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看到系统分析结果",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】神职判定：无，封神候选资格：不具备，备注：非预定节点死亡",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字清晰显示：【封神候选资格：不具备，备注：非预定节点死亡】",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊瞳孔微缩",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：果然。不是所有修士，都有资格进入封神榜。这个人，只是一个消耗品。"],
+    "narration": "林渊的瞳孔微微一缩，终于明白了",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着顿悟的光芒，神情冷静而深刻",
+    "background_pure": "背景是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "end",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "天地间掠过波动",
+    "emotion": "诡异",
+    "dialogues": [],
+    "narration": "就在这时，天地之间忽然掠过一丝极其细微、却让人心悸的波动",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "天地全景"
+    },
+    "character_layout": "画面没有具体人物，呈现宏大的天地景象，无数细小的数据流在天地间流动",
+    "background_pure": "无尽的虚空，金色和灰色交织的数据流贯穿天地，远处有模糊的建筑轮廓"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "start",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊意识被拉高",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "林渊的意识毫无征兆地被拉高，不是身体移动，而是视角被强行提升",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Pull back",
+      "focus": "上升视角"
+    },
+    "character_layout": "画面呈现视角快速上升的效果，从地面上升到高空，再到虚空深处",
+    "background_pure": "天地景象越来越广阔，无数金色数据流在视野中纵横交错"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "end",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊看见封神榜",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "他看见了——在无穷高远的虚空深处，一张无法用大小来衡量的金色榜单静静悬浮",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "封神榜"
+    },
+    "character_layout": "画面没有具体人物，中央是一张巨大的金色榜单，榜单上铭刻着无数名字",
+    "background_pure": "无尽的虚空，金色光芒贯穿天地，远处有天宫建筑群的轮廓若隐若现"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "start",
+    "place": "虚空深处，封神榜",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "封神榜细节展现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "榜单之上，铭刻着一个又一个名字，每一个名字旁边都缠绕着复杂无比的因果线条",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "榜单细节"
+    },
+    "character_layout": "画面没有具体人物，展现封神榜的细节，无数名字和因果线条交织",
+    "background_pure": "金色榜单占据画面中央，周围是虚空的黑暗，金色光芒从榜单上散发出来"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "end",
+    "place": "虚空深处，封神榜",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "系统面板出现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【系统面板】封神榜：运行中，当前阶段：预定筛选，神位名额：有限，空缺状态：未满",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字悬浮在封神榜前方",
+    "background_pure": "背景是巨大的金色封神榜，金色文字在视野中央清晰可见"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "start",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊理解封神榜本质",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：这不是审判榜。更不是善恶簿。它更像是一个提前写好的名单——"],
+    "narration": "林渊只是看了一眼便立刻明白了",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Pan",
+      "focus": "封神榜整体"
+    },
+    "character_layout": "画面没有具体人物，展现封神榜的宏大和冷漠",
+    "background_pure": "无尽的虚空，金色封神榜悬浮，无数因果线条从中延伸"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "end",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "系统开始反击",
+    "emotion": "紧张",
+    "dialogues": [],
+    "narration": "【系统面板】检测到流程偏差，偏差等级：低，原因判定：底层结构被干扰，处理方式：记录、分析、启动被动防御",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告信息",
+    "background_pure": "背景是模糊的虚空和金色封神榜"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "start",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "封神榜在学习",
+    "emotion": "紧张",
+    "dialogues": ["【独白】：封神榜的反应，不再只是冷漠。它在学习！它在分析林渊的战斗方式！"],
+    "narration": "林渊突然感到一阵心悸，系统在进化",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Shake",
+      "focus": "系统变化"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字开始变化和重组",
+    "background_pure": "背景是虚空的黑暗，金色光芒不断变化"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "end",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊意识到关键点",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：真正引起这次流程偏差的，并不是修士的死亡本身——而是那场死亡，是被人为改写的。"],
+    "narration": "林渊意识到真正的问题所在",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字显示流程偏差的分析",
+    "background_pure": "背景是模糊的虚空"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜，回到现实",
+    "characters": ["林渊"],
+    "action": "林渊视野信息跳转",
+    "emotion": "冷静",
+    "dialogues": [],
+    "narration": "林渊的视野中，信息再次跳转",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字浮现",
+    "background_pure": "视野边缘是模糊的废墟环境，中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看到自己的信息核查",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】个体信息核查中...姓名：林渊，身份：凡人，修为：无，封神榜记录：无，候选序列：未纳入，状态备注：异常变量",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字【候选序列：未纳入】格外醒目",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊心跳加快",
+    "emotion": "震惊",
+    "dialogues": ["【独白】：不是尚未上榜。而是——根本不在候选范围内。"],
+    "narration": "林渊的心跳猛然加快",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，瞳孔放大，眼中闪烁着震惊的光芒",
+    "background_pure": "背景是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊理解自身处境",
+    "emotion": "冷静分析",
+    "dialogues": ["【独白】：这意味着，他不是还没轮到，而是一个系统原本就没打算处理的存在。"],
+    "narration": "林渊意识到自己的处境",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pull back",
+      "focus": "林渊全身"
+    },
+    "character_layout": "林渊靠在墙边，神情变得冷静，眼中闪烁着思考的光芒",
+    "background_pure": "废墟环境，远处是修士的尸体"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊", "幸存修士"],
+    "action": "幸存修士冲过来质问",
+    "emotion": "愤怒、惊怒",
+    "dialogues": ["【幸存修士】：林渊！", "【幸存修士】：你好大的胆子，竟敢害死仙师！"],
+    "narration": "一声厉喝将林渊从思绪中拉回现实",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan right",
+      "focus": "幸存修士"
+    },
+    "character_layout": "幸存修士冲到画面左侧，脸色铁青，眼中带着压抑不住的惊怒",
+    "background_pure": "废墟环境，远处是修士的尸体"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["幸存修士"],
+    "action": "幸存修士继续质问",
+    "emotion": "愤怒",
+    "dialogues": ["【幸存修士】：你可知现在是什么时候？封神大劫将启，任何因果错乱，都会被追溯！"],
+    "narration": "修士说到封神二字时，语气中带着本能的敬畏",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "幸存修士"
+    },
+    "character_layout": "幸存修士站在画面中央，神情激动，手指着林渊",
+    "background_pure": "废墟环境"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看到系统提示",
+    "emotion": "冷静分析",
+    "dialogues": [],
+    "narration": "【系统面板】检测：常识错误，分析：修士对封神榜机制理解存在偏差，结论：可利用",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示分析结果",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的废墟和修士"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊笑了",
+    "emotion": "嘲讽",
+    "dialogues": ["【林渊】：封神大劫？你以为封神榜是干什么用的？记录所有死掉的修士？"],
+    "narration": "林渊笑了，笑得无比嘲讽",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，嘴角勾起一抹嘲讽的笑容，眼中闪烁着智慧的光芒",
+    "background_pure": "背景是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊声音变冷",
+    "emotion": "冷酷",
+    "dialogues": ["【林渊】：天真！封神榜只关心那些有用的死！像刚才那个废物，就算死一万次，也上不了封神榜！"],
+    "narration": "林渊顿了顿，声音陡然变冷",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊靠在墙边慢慢站起，身形踉跄却站得很稳，眼中闪烁着冷酷的光芒",
+    "background_pure": "废墟环境，远处是修士的尸体"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊", "幸存修士"],
+    "action": "林渊质问修士",
+    "emotion": "质问",
+    "dialogues": ["【林渊】：因果错乱？那你告诉我——刚才死的那个人，在封神榜上吗？"],
+    "narration": "林渊与幸存修士对峙",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan left",
+      "focus": "修士反应"
+    },
+    "character_layout": "林渊站在画面左侧，神情质问；幸存修士在画面右侧，一怔之后怒喝",
+    "background_pure": "废墟环境"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["幸存修士"],
+    "action": "修士开始回答",
+    "emotion": "愤怒",
+    "dialogues": ["【幸存修士】：当然不在！他不过是——"],
+    "narration": "修士下意识地回答",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "修士脸部"
+    },
+    "character_layout": "幸存修士面部特写，神情愤怒，张口回答",
+    "background_pure": "背景是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["幸存修士"],
+    "action": "修士脸色骤变",
+    "emotion": "崩溃",
+    "dialogues": [],
+    "narration": "话说到一半，修士猛地停住，脸色从铁青到煞白，再从煞白到死灰",
+    "camera": {
+      "shot_type": "Extreme Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "修士表情变化"
+    },
+    "character_layout": "幸存修士面部极特写，瞳孔骤缩，嘴唇颤抖，脸色从愤怒转为死灰",
+    "background_pure": "背景昏暗，只有微弱的光线照亮修士的脸部"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊指出真相",
+    "emotion": "冷酷",
+    "dialogues": ["【林渊】：对了。现在明白了吗？你们连当炮灰的资格都没有！"],
+    "narration": "林渊点点头，眼中闪过嗜血的光芒",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着嗜血而冷酷的光芒，嘴角带着残酷的笑意",
+    "background_pure": "背景是模糊的废墟环境"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "系统提示出现",
+    "emotion": "冷静",
+    "dialogues": [],
+    "narration": "【系统面板】系统提示：检测到逻辑冲突，冲突类型：规则认知偏差，处理建议：无需介入，自行认知崩溃",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示分析结果",
+    "background_pure": "视野边缘是模糊的废墟和修士，中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["幸存修士"],
+    "action": "修士彻底崩溃",
+    "emotion": "崩溃",
+    "dialogues": ["【幸存修士】：不...不可能！仙师怎么会...怎么会连封神榜都上不了？！"],
+    "narration": "修士彻底崩溃了",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "修士脸部"
+    },
+    "character_layout": "幸存修士面部特写，表情癫狂，眼神涣散，嘴唇颤抖着说出不可能",
+    "background_pure": "背景是模糊的废墟环境，光线昏暗"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看着崩溃的修士",
+    "emotion": "冷笑",
+    "dialogues": ["【独白】：这就是现实！你们这些自以为是的修士，在系统眼里不过是——随时可以替换的零件。"],
+    "narration": "林渊看着修士癫狂的样子，心中冷笑",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊靠在墙边，看着崩溃的修士，嘴角带着冷笑，眼神冷漠",
+    "background_pure": "废墟环境，远处是崩溃的修士"
+  },
+  {
+    "scene_id": "scene_017",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊抬头看向天空",
+    "emotion": "冷静",
+    "dialogues": [],
+    "narration": "林渊抬头看向天空，那里什么都没有",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Low-angle",
+      "movement": "Tilt up",
+      "focus": "天空"
+    },
+    "character_layout": "林渊站在画面下方，抬头看着天空，背影显得孤独而坚定",
+    "background_pure": "上方是黑暗的夜空，几点星光闪烁"
+  },
+  {
+    "scene_id": "scene_017",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊说出真相",
+    "emotion": "坚定",
+    "dialogues": ["【独白】：原来如此...封神榜不怕死人。它怕的是——该上榜的人，没按时死。"],
+    "narration": "林渊低声开口，像是在对自己说",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着坚定的光芒，神情冷静而深刻",
+    "background_pure": "背景是黑暗的夜空"
+  },
+  {
+    "scene_id": "scene_018",
+    "frame_type": "start",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "系统意志停顿",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "虚空深处，那股无形的意志仿佛短暂地停顿了一瞬",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "虚空全景"
+    },
+    "character_layout": "画面没有具体人物，呈现虚空的浩瀚和无形意志的存在感",
+    "background_pure": "无尽的虚空，金色数据流在黑暗中流动"
+  },
+  {
+    "scene_id": "scene_018",
+    "frame_type": "end",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "系统提升观察等级",
+    "emotion": "紧张",
+    "dialogues": [],
+    "narration": "【系统面板】异常变量观察等级：提升，备注：该变量可能影响既定名额填充进程",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告信息",
+    "background_pure": "背景是虚空的黑暗，金色文字清晰可见"
+  },
+  {
+    "scene_id": "scene_019",
+    "frame_type": "start",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜，回到现实",
+    "characters": ["林渊"],
+    "action": "林渊呼气，理解真相",
+    "emotion": "坚定",
+    "dialogues": [],
+    "narration": "林渊缓缓呼出一口气，终于明白了",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊站在画面中央，缓缓呼气，神情变得坚定",
+    "background_pure": "废墟环境，远处是崩溃的修士"
+  },
+  {
+    "scene_id": "scene_019",
+    "frame_type": "end",
+    "place": "陈塘关矿场阵法废墟",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊宣布对抗",
+    "emotion": "决心",
+    "dialogues": ["【林渊】：既然你们的榜单，是提前写好的。那我就看看——它能不能改！", "【系统面板】：警告：异常变量表现出强烈对抗意图，威胁等级：提升至高危", "【林渊】：呵...怕了？晚了！", "【林渊】：从我看见第一行代码开始，这场战争——就已经开始了！", "【林渊】：程序员，从不接受无法修改的代码！", "【林渊】：异常变量，从不服从既定的命运！", "【林渊】：封神榜？很好，我记住你了！", "【林渊】：下一个要删除的，就是你！"],
+    "narration": "林渊抬起头，嘴角微微扬起",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着坚定的光芒，嘴角带着危险的笑容",
+    "background_pure": "背景是黑暗的夜空，金色系统文字在视野中浮现"
+  }
+]

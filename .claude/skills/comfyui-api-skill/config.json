@@ -1,0 +1,27 @@
+{
+  "server_address": "127.0.0.1:8188",
+  "default_timeout": 300,
+  "output_directory": "generated_images",
+  "workflows_directory": "comfyui-workflows",
+  "default_workflow": "default_workflow.json",
+  "default_parameters": {
+    "steps": 20,
+    "cfg": 8.0,
+    "width": 512,
+    "height": 768,
+    "batch_size": 1,
+    "sampler_name": "euler",
+    "scheduler": "normal"
+  },
+  "character_consistency": {
+    "男主角": "融合吴彦祖的深邃眼神与胡歌的文雅气质，古装扮相英俊不凡",
+    "女主角": "融合刘亦菲的仙气飘逸与金晨的灵动美感，古装造型典雅动人"
+  },
+  "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, nsfw",
+  "batch_settings": {
+    "max_concurrent": 1,
+    "delay_between_tasks": 2,
+    "retry_attempts": 3,
+    "auto_retry_delay": 10
+  }
+}

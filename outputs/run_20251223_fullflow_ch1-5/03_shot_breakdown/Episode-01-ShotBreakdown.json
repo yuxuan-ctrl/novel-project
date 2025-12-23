@@ -1,0 +1,534 @@
+[
+  {
+    "scene_id": "scene_001",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜，血色光芒闪烁",
+    "characters": ["林渊"],
+    "action": "林渊跪在血色阵法中央，身体虚弱颤抖",
+    "emotion": "虚弱、紧张",
+    "dialogues": [],
+    "narration": "破旧矿洞深处，地面刻画着巨大的血色符文阵法，血纹亮起不祥的红光像活物般蠕动",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "角色脸部"
+    },
+    "character_layout": "画面中央是林渊，双膝跪地，上身微微前倾，脸色苍白虚弱，周围是血红色的阵法纹路",
+    "background_pure": "破旧矿洞内部，石壁粗糙，地面刻画着巨大的血色符文阵法，血纹散发不祥的红光，洞顶昏暗，整体光线压抑诡异"
+  },
+  {
+    "scene_id": "scene_001",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜，血色光芒闪烁",
+    "characters": ["林渊"],
+    "action": "血纹光芒越来越亮，林渊浑身剧烈颤抖",
+    "emotion": "痛苦加剧",
+    "dialogues": [],
+    "narration": "脚下血纹疯狂抽取生命，林渊浑身颤抖，生命正在流逝",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "角色脸部"
+    },
+    "character_layout": "林渊跪在画面中央，身体因痛苦而微微蜷缩，额头上渗出冷汗，双眼紧闭",
+    "background_pure": "破旧矿洞内部，血色阵法纹路光芒越来越亮，将周围的石壁映照成血红色，光线压抑诡异"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊视野中浮现金色系统文字",
+    "emotion": "惊讶",
+    "dialogues": [],
+    "narration": "林渊视野中浮现金色文字，那不是幻觉，是他最熟悉的系统报错",
+    "camera": {
+      "shot_type": "Extreme Close-up",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字悬浮在视野中央：【系统警报】封神榜第365号神位出现绑定延迟...检测到未知变量接触...",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的金色系统文字，背景昏暗，金色文字明亮醒目"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊专注阅读系统文字",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统警报】变量等级：超出分析范围，这行金色文字悬浮在林渊视野正中央",
+    "camera": {
+      "shot_type": "Extreme Close-up",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字【变量等级：？？？】悬浮在视野中央，文字醒目",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的金色系统文字，背景昏暗"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士冷冷俯视阵中的林渊",
+    "emotion": "冷漠、轻蔑",
+    "dialogues": ["【青袍修士】：站稳，别乱动。你只需要撑住一炷香。"],
+    "narration": "阵外，青袍修士冷冷俯视，周围杂役瑟瑟发抖不敢抬头",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "角色脸部"
+    },
+    "character_layout": "青袍修士站在画面右上方，居高临下俯视，身穿青色长袍金色云纹刺绣，腰间配剑，头戴玉冠，神情冷漠",
+    "background_pure": "矿洞内部，远处是血红色的阵法光芒，周围石壁粗糙，洞顶昏暗，整体光线压抑"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士轻蔑地看着林渊",
+    "emotion": "轻蔑",
+    "dialogues": [],
+    "narration": "周围杂役瑟瑟发抖，不敢抬头",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "角色脸部"
+    },
+    "character_layout": "青袍修士站在画面中，神情轻蔑，周围模糊的杂役身影瑟瑟发抖",
+    "background_pure": "矿洞内部，远处是血红色的阵法光芒，周围石壁粗糙，洞顶昏暗"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊低头看向脚下蔓延的血纹",
+    "emotion": "愤怒",
+    "dialogues": [],
+    "narration": "那是血引纹，用活人精血稳定阵法核心的残忍禁术",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "High-angle",
+      "movement": "Tilt down",
+      "focus": "地面阵法"
+    },
+    "character_layout": "林渊跪在画面中央，低头看着脚下的血纹，神情从痛苦转为愤怒",
+    "background_pure": "地面是血红色的阵法纹路，像活物般蠕动，发出不祥的红光，周围是阴暗的石壁"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊抬起头，眼中闪过冷光",
+    "emotion": "愤怒、决心",
+    "dialogues": ["【独白】三天前，我发现了这座阵法的致命BUG。他们说我是疯子，说我一个凡人也敢妄谈仙家阵法。很快，他们就会明白——嘲笑程序员的下场。"],
+    "narration": "林渊想起三天前的遭遇，眼中闪过冷光",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "角色脸部"
+    },
+    "character_layout": "林渊跪在画面中央，抬起头，眼中闪过冷光，神情坚毅",
+    "background_pure": "背景是模糊的矿洞环境，血色阵法纹路在周围发出暗红色的光"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "start",
+    "place": "矿场主事厅",
+    "time": "三天前的白天",
+    "characters": ["林渊", "主事修士"],
+    "action": "林渊恭敬递上示意图",
+    "emotion": "恭敬、紧张",
+    "dialogues": ["【林渊】：修士大人，这座护山大阵的第三节点能量回路设计有问题，如果同时承受三个方向的攻击，会形成能量死循环，到时候..."],
+    "narration": "三天前的记忆，林渊恭敬地递上手绘的阵法缺陷示意图",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "角色互动"
+    },
+    "character_layout": "画面左侧是林渊，恭敬地递上一张图纸，身穿破旧灰色囚服；画面右侧是主事修士，坐在宝座上闭目养神，身穿华贵的法袍",
+    "background_pure": "宽敞的主事厅，墙壁上挂着阵法图，地面铺着青石板，光线明亮，透过窗户可以看到外面的阳光"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "end",
+    "place": "矿场主事厅",
+    "time": "三天前的白天",
+    "characters": ["主事修士"],
+    "action": "主事修士闭着眼睛，不屑一顾",
+    "emotion": "不屑、傲慢",
+    "dialogues": ["【主事修士】：到时候什么？一个凡人矿奴，也敢对仙家阵法指手画脚？"],
+    "narration": "主事修士坐在宝座上，连眼都没睁开",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "主事修士"
+    },
+    "character_layout": "主事修士坐在画面中央的宝座上，闭着眼睛，神情不屑，身穿华贵的法袍，头戴发冠",
+    "background_pure": "宽敞的主事厅，墙壁上挂着阵法图，地面铺着青石板，光线明亮"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "start",
+    "place": "矿场主事厅",
+    "time": "三天前的白天",
+    "characters": ["林渊", "主事修士"],
+    "action": "林渊试图解释，主事修士怒喝",
+    "emotion": "林渊焦急，主事修士愤怒",
+    "dialogues": ["【林渊】：可是大人，这个缺陷真的很危险——", "【主事修士】：闭嘴！你这是在质疑太上长老的布阵能力？还是说...你想通过制造恐慌，趁乱逃跑？"],
+    "narration": "林渊万万没想到，指出技术问题会被上升到政治问题的高度",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan right",
+      "focus": "对话双方"
+    },
+    "character_layout": "林渊站在画面左侧，神情焦急；主事修士在画面右侧猛地睁眼，脸上带着怒意",
+    "background_pure": "宽敞的主事厅，墙壁上的阵法图清晰可见，地面铺着青石板，光线明亮"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "end",
+    "place": "矿场主事厅",
+    "time": "三天前的白天",
+    "characters": ["主事修士"],
+    "action": "主事修士眼中闪过杀意，下达命令",
+    "emotion": "冷酷、杀意",
+    "dialogues": ["【主事修士】：来人！此人心怀鬼胎，污蔑仙家阵法，居心叵测。念在他还有些用处，三日后用做血祭，物尽其用。"],
+    "narration": "主事修士眼中闪过一丝杀意",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "主事修士脸部"
+    },
+    "character_layout": "主事修士面部特写，眼中闪过冷酷的杀意，嘴角带着残酷的笑容",
+    "background_pure": "背景是模糊的主事厅环境，光线从侧面照射过来，形成明暗对比"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜，现在",
+    "characters": ["林渊"],
+    "action": "林渊嘴角勾起一抹冷笑",
+    "emotion": "嘲讽、冷笑",
+    "dialogues": [],
+    "narration": "林渊嘴角勾起一抹冷笑，笑这个世界的程序员，写代码竟然不写注释",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "角色脸部"
+    },
+    "character_layout": "林渊跪在画面中央，嘴角勾起一抹冷笑，眼中闪烁着讽刺的光芒",
+    "background_pure": "背景是模糊的矿洞环境，血色阵法纹路在周围发出暗红色的光"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士见林渊在笑，眼中闪过不屑",
+    "emotion": "不屑、疑惑",
+    "dialogues": ["【青袍修士】：哭什么？凡人就是凡人，死到临头还发疯。"],
+    "narration": "阵外，青袍修士见他在笑，眼中闪过一丝不屑",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "青袍修士"
+    },
+    "character_layout": "青袍修士站在画面上方，俯视着阵中的林渊，神情不屑，眉头微微皱起",
+    "background_pure": "矿洞内部，远处是血红色的阵法光芒，周围石壁粗糙，洞顶昏暗"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊视野中浮现系统分析报告",
+    "emotion": "冷静分析",
+    "dialogues": ["【独白】我不是在哭。我是在笑——我看到了这座阵法真正的源码。"],
+    "narration": "林渊视野中浮现分析报告",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字悬浮在视野中央：【阵法分析报告：名称-护山大阵ver3.2，代码质量-D级，致命级BUG-第三节点回路死锁】",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的金色系统文字，背景昏暗"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊冷笑，看着系统报告",
+    "emotion": "冷笑、嘲讽",
+    "dialogues": ["【独白】暂时不影响？这就像我原来公司的那个项目，明知有漏洞却为了赶进度添加暂不处理标签。直到系统崩溃那天，才知道代价有多大。"],
+    "narration": "林渊看着系统报告中【此BUG已被标记暂时不影响】的备注",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字清晰可见，【备注：暂时不影响】几个字格外醒目",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "血纹光芒越来越亮，撕扯感加剧",
+    "emotion": "痛苦",
+    "dialogues": [],
+    "narration": "血纹光芒越来越亮，撕扯感从脚底直冲天灵盖，仿佛有什么东西被强行抽离",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Push in",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊跪在画面中央，身体因撕扯感而颤抖，双手紧紧抓着地面，脸上露出痛苦的表情",
+    "background_pure": "血色阵法纹路发出耀眼的红光，将周围的石壁映照成血红色，光线压抑诡异"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊膝盖一软，几乎跪倒在地",
+    "emotion": "虚弱濒死",
+    "dialogues": [],
+    "narration": "林渊膝盖一软，几乎跪倒在地，生命体征急剧下降",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "High-angle",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，脸色苍白如纸，额头冷汗直冒，双眼开始失去焦点",
+    "background_pure": "背景是模糊的血红色光芒，光线昏暗压抑"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "start",
+    "place": "陈塘关上空，虚空视角",
+    "time": "瞬间",
+    "characters": [],
+    "action": "系统崩溃提示出现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【系统崩溃！崩溃原因：第三节点回路死锁触发，特殊状态：宿主意识被迫同步】",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Pull back",
+      "focus": "全景"
+    },
+    "character_layout": "画面没有具体人物，呈现宏大的虚空视角，下方是渺小的陈塘关，无数金色代码流在天地间纵横交错",
+    "background_pure": "宏大的天地景象，山河是数据库表，日月是系统变量，芸芸众生是正在运行的进程，金色代码流贯穿天地"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "end",
+    "place": "陈塘关上空，虚空视角",
+    "time": "瞬间",
+    "characters": [],
+    "action": "林渊意识悬浮，俯瞰整个世界",
+    "emotion": "震撼、顿悟",
+    "dialogues": ["【独白】这不是比喻。我看见了——真正的代码。"],
+    "narration": "阵法启动的瞬间，林渊意识被猛地抽离，他悬浮在陈塘关上空，俯瞰整个世界",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "全景"
+    },
+    "character_layout": "画面没有具体人物，呈现林渊意识视角的俯瞰全景，天地间充斥着金色代码流",
+    "background_pure": "宏大的天地景象，山河是数据库表，日月是系统变量，金色代码流贯穿天地，远处有一张巨大的金色榜单悬浮"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "start",
+    "place": "虚空深处，封神榜",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "封神榜OS系统界面出现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【世界系统：封神榜OS，版本：上古v1.0，架构类型：因果律操作系统】",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "封神榜"
+    },
+    "character_layout": "画面没有具体人物，远方是一张巨大的金色榜单悬浮在虚空深处，榜单上铭刻着无数名字，每个名字旁边都缠绕着因果线条",
+    "background_pure": "无尽的虚空，金色光芒贯穿天地，远处有天宫建筑群的轮廓若隐若现，云雾翻涌"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "end",
+    "place": "虚空深处，封神榜",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "关键进程监控列表出现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【关键进程监控：进程ID FFF-001 | 名称：哪吒 | 状态：待分配；进程ID VAR-001 | 名称：林渊 | 警告：外部变量！】",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Push in",
+      "focus": "进程列表"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字悬浮：【进程ID VAR-001 | 名称：林渊 | 警告：外部变量！】",
+    "background_pure": "视野边缘是模糊的虚空和金色榜单，中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "start",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊发现自己是外部变量",
+    "emotion": "震惊、顿悟",
+    "dialogues": ["【独白】这就是我的金手指？不，这是我的身份证明。我不是这个世界的人。我是一个被错误投放进来的——BUG。"],
+    "narration": "林渊看到了自己的进程ID，赫然标记为【外部变量】",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Push in",
+      "focus": "系统文字"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色文字【外部变量】闪烁着刺眼的红光",
+    "background_pure": "视野边缘是模糊的虚空，中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "意识回到身体，金色文字再次浮现",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "当意识重新回到身体的瞬间，那行金色文字再次浮现",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊跪在画面中央，猛地睁开眼睛，眼中闪烁着震惊和领悟的光芒",
+    "background_pure": "背景是模糊的矿洞环境，血色阵法纹路在周围发出暗红色的光"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士察觉异常，眼神一冷",
+    "emotion": "警惕、杀意",
+    "dialogues": ["【青袍修士】：别让他乱动！"],
+    "narration": "青袍修士察觉到异常，眼神一冷，抬手就要凝聚法术",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "青袍修士"
+    },
+    "character_layout": "青袍修士站在画面上方，神情警惕，右手开始凝聚法术的光芒",
+    "background_pure": "矿洞内部，远处是血红色的阵法光芒，周围石壁粗糙，洞顶昏暗"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊用尽最后力气，向前踏出半步",
+    "emotion": "决心",
+    "dialogues": [],
+    "narration": "林渊用尽最后一丝力气，猛地向前踏出半步",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Low-angle",
+      "movement": "Push in",
+      "focus": "林渊动作"
+    },
+    "character_layout": "林渊跪在画面中央，用尽全身力气向前踏出半步，脚掌精准踩在某个位置",
+    "background_pure": "背景是模糊的矿洞环境，血色阵法纹路在周围发出暗红色的光"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看到致命漏洞检测提示",
+    "emotion": "冷静分析",
+    "dialogues": [],
+    "narration": "【致命漏洞检测：类型-能量回路死锁，预期后果-系统级反噬能量逆流，利用难度：中等】",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，脚下某个位置闪烁着刺眼的红色警告：【致命漏洞检测】",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的红色警告标记"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊做出选择，准备触发反噬",
+    "emotion": "决绝",
+    "dialogues": ["【独白】30%的存活概率，对比必死的血祭。这是一道送分的选择题。"],
+    "narration": "林渊心中默算了三秒，做出了选择",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着决绝的光芒，嘴角微微上扬",
+    "background_pure": "背景是模糊的矿洞环境，血色阵法纹路在周围发出越来越亮的光"
+  }
+]

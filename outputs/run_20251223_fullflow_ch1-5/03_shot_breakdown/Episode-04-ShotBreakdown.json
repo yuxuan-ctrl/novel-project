@@ -1,0 +1,610 @@
+[
+  {
+    "scene_id": "scene_001",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊盘膝坐在床榻上",
+    "emotion": "疲惫",
+    "dialogues": [],
+    "narration": "破旧的偏房里，林渊盘膝坐在床榻上，门外有修士看守",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊盘膝坐在画面中央的床榻上，身穿破旧灰色囚服，脸色苍白",
+    "background_pure": "破旧的偏房，墙壁斑驳，有一扇小窗透进微弱的光线，房间简陋"
+  },
+  {
+    "scene_id": "scene_001",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看到系统警告",
+    "emotion": "犹豫",
+    "dialogues": [],
+    "narration": "【系统面板】警告：当前精神力25/100，风险：低于20点将出现幻觉，建议：休息4小时恢复精神力",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告信息",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊皱眉，决定继续观察",
+    "emotion": "决心",
+    "dialogues": ["【独白】：与其被动等待被清除，不如主动出击，看看这个系统到底有多少漏洞。"],
+    "narration": "林渊皱了皱眉，他必须继续观察，必须找出更多系统的漏洞",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眉头微皱，眼中闪烁着决心的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊深吸气，强行开启观察状态",
+    "emotion": "痛苦但坚决",
+    "dialogues": [],
+    "narration": "林渊深吸一口气，强行开启观察状态",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊盘膝坐在床榻上，闭上眼睛，然后猛地睁开，眼中闪过金色的光芒",
+    "background_pure": "房间环境，随着观察状态开启，周围出现细碎的数据流"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "世界变得不同，信息流出现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "下一刻，世界再次变得不同，无数细碎的信息如同暗流一般在天地间缓缓流动",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "信息流全景"
+    },
+    "character_layout": "画面没有具体人物，展现无数细碎的信息流在天地间流动，像暗流一样",
+    "background_pure": "天地之间充斥着细碎的光点，形成无数条轨迹线，从地面延伸到天空"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "命数轨迹展现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "他看见了——不是具体的人，而是一条条模糊却清晰的命数轨迹",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Follow",
+      "focus": "命数轨迹"
+    },
+    "character_layout": "画面没有具体人物，展现无数条命数轨迹线，从地面延伸到天空",
+    "background_pure": "天地之间，轨迹线像被写好的线路，有的平缓，有的陡峭，有的被标记"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "必死节点标记出现",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【系统面板】必死节点",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Push in",
+      "focus": "节点标记"
+    },
+    "character_layout": "画面没有具体人物，展现命数轨迹上醒目的血红色标记",
+    "background_pure": "轨迹线在天地间延伸，某些位置被标上了极其醒目的血红色标记"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊理解必死节点",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：这就是...封神榜真正关心的东西。不是谁强谁弱，不是谁善谁恶——而是谁的死亡，能恰好填上那个早已预留的名额。"],
+    "narration": "林渊的呼吸不由自主地放轻",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "命数轨迹整体"
+    },
+    "character_layout": "画面没有具体人物，展现命数轨迹的宏大和封神榜的冷漠",
+    "background_pure": "天地之间，无数轨迹线延伸，血红色标记点缀其中"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "一条炽烈轨迹变得清晰",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "就在这时，其中一条命数轨迹在林渊感知中变得异常清晰",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Push in",
+      "focus": "特定轨迹"
+    },
+    "character_layout": "画面没有具体人物，展现一条极其炽烈的轨迹，如烈火如雷霆",
+    "background_pure": "轨迹线气运浓烈得几乎要溢出，发出耀眼的光芒，与其他轨迹形成鲜明对比"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "轨迹被钉上血红色标记",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【系统面板】必死节点：已锁定，节点性质：不可替代，对应神位：空缺中",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "节点标记"
+    },
+    "character_layout": "画面展现轨迹中段被钉上的血红色标记，标记异常醒目",
+    "background_pure": "炽烈的轨迹线，血红色标记在中央格外刺眼"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊心震",
+    "emotion": "震撼",
+    "dialogues": ["【独白】：不是因为这个节点有多凶险。而是因为——这个节点，被标注为不可替代。"],
+    "narration": "林渊的心猛地一震",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "轨迹和标记"
+    },
+    "character_layout": "画面没有具体人物，展现轨迹和标记的关系",
+    "background_pure": "炽烈的轨迹线，血红色标记【不可替代】格外醒目"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊理解封神榜逻辑",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：也就是说，这个名额，非他莫属。"],
+    "narration": "林渊终于彻底明白了",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Pull back",
+      "focus": "整体命数系统"
+    },
+    "character_layout": "画面展现命数轨迹的整体，无数条线延伸，有的被标记",
+    "background_pure": "天地之间，命数轨迹线纵横交错"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "轨迹末端微微波动",
+    "emotion": "意外",
+    "dialogues": [],
+    "narration": "就在这时，那条命数轨迹的末端忽然微微波动了一下，并非改变，而是——出现了一个极其细小的延迟",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "轨迹末端"
+    },
+    "character_layout": "画面展现轨迹末端的细微波动，不是断裂不是消失，而是被拖慢了",
+    "background_pure": "炽烈的轨迹线，末端出现细微的延迟波动"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊瞳孔骤缩",
+    "emotion": "震惊",
+    "dialogues": ["【林渊】：等等..."],
+    "narration": "林渊瞳孔骤缩",
+    "camera": {
+      "shot_type": "Extreme Close-up",
+      "angle": "POV",
+      "movement": "Push in",
+      "focus": "轨迹波动"
+    },
+    "character_layout": "画面展现轨迹末端的延迟细节，极其细微但确实存在",
+    "background_pure": "炽烈的轨迹线，末端的延迟波动清晰可见"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊追溯轨迹",
+    "emotion": "追踪",
+    "dialogues": [],
+    "narration": "林渊立刻顺着那条轨迹向前追溯，下一瞬，他看见了一个名字",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Track",
+      "focus": "轨迹追溯"
+    },
+    "character_layout": "画面没有具体人物，展现沿着轨迹向前追溯的过程",
+    "background_pure": "炽烈的轨迹线，向前延伸，形成一个模糊的轮廓"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "名字显现",
+    "emotion": "震惊",
+    "dialogues": ["【林渊】：...哪吒。"],
+    "narration": "这个名字几乎是脱口而出，封神世界里最典型、最无法绕开的必死之人",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "名字轮廓"
+    },
+    "character_layout": "画面展现一个模糊的名字轮廓，桀骜、暴烈、几乎要冲破天地束缚的气息",
+    "background_pure": "炽烈的轨迹线，名字轮廓在中央"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "start",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "林渊理解哪吒命运",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "剔骨还父，削肉还母，身死上榜，这是几乎所有人都默认的结局",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "哪吒轨迹"
+    },
+    "character_layout": "画面展现哪吒的命数轨迹，原本应该笔直通向死亡",
+    "background_pure": "炽烈的轨迹线，通向远方的血红色标记"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "end",
+    "place": "观察空间",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "轨迹出现偏移",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "可现在——那条原本应该笔直通向死亡的轨迹，却出现了一丝几乎无法察觉的偏移，不是断裂，不是消失，而是——被拖慢了",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "轨迹偏移"
+    },
+    "character_layout": "画面展现轨迹的偏移，极其细微但确实存在",
+    "background_pure": "炽烈的轨迹线，偏离了原本笔直的路径"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜，回到现实",
+    "characters": ["林渊"],
+    "action": "林渊缓缓睁开眼",
+    "emotion": "兴奋",
+    "dialogues": ["【林渊】：有意思..."],
+    "narration": "林渊缓缓睁开眼，眼中没有恐惧，只有一种近乎程序员看到异常日志时的冷静",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着兴奋的光芒，嘴角勾起笑容",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "系统面板显示",
+    "emotion": "兴奋",
+    "dialogues": [],
+    "narration": "【系统面板】关键变量检测：哪吒，状态：命运延迟2.3%，原因：异常变量001的间接影响，警告：继续延迟将导致神位空缺",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示分析结果",
+    "background_pure": "视野中央是清晰的金色系统文字，周围是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊嘴角扬起疯狂弧度",
+    "emotion": "疯狂、兴奋",
+    "dialogues": ["【林渊】：太有意思了！", "【林渊】：封神榜，你不是无所不能吗？", "【林渊】：连一个婴儿的命运都控制不了？"],
+    "narration": "林渊的嘴角缓缓扬起一个疯狂的弧度",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，嘴角带着疯狂而兴奋的笑容，眼中闪烁着挑战的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊宣布挑战",
+    "emotion": "疯狂、决心",
+    "dialogues": ["【林渊】：那就让我看看——你的底线在哪里！你的BUG在哪里！你的——崩溃点在哪里！"],
+    "narration": "林渊的声音充满挑战意味",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊全身"
+    },
+    "character_layout": "林渊坐在床榻上，身体前倾，眼中闪烁着疯狂的光芒",
+    "background_pure": "房间环境，随着情绪高涨，周围出现细微的数据流波动"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊没有出手",
+    "emotion": "冷静",
+    "dialogues": ["【独白】：他并没有出手，至少现在还没有，可命数，却已经出现了变化。"],
+    "narration": "林渊并没有出手，但命数却已经出现了变化",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊坐在床榻上，神情变得冷静，眼中闪烁着思考的光芒",
+    "background_pure": "房间环境，光线平静"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊得出结论",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：这说明什么？说明封神榜的运行并非无懈可击。说明必死节点并不是完全不可触碰。更说明一件事——我这个异常变量，已经开始影响到真正的候选者了。"],
+    "narration": "林渊得出结论",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着顿悟的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "start",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "系统意志再次扫过",
+    "emotion": "紧张",
+    "dialogues": [],
+    "narration": "就在这时，虚空深处那股熟悉而冰冷的意志再次轻轻扫过，比上一次更近",
+    "camera": {
+      "shot_type": "Extreme Wide Shot",
+      "angle": "Bird's eye",
+      "movement": "Static",
+      "focus": "虚空全景"
+    },
+    "character_layout": "画面没有具体人物，呈现虚空的浩瀚和无形意志的存在",
+    "background_pure": "无尽的虚空，金色数据流在黑暗中流动"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "end",
+    "place": "虚空深处",
+    "time": "超越时间的瞬间",
+    "characters": [],
+    "action": "系统启动防御",
+    "emotion": "紧张",
+    "dialogues": [],
+    "narration": "【系统面板】检测到名额填充进程轻微延迟，新增：反追踪程序已激活，警告：异常变量已暴露80%，系统启动：主动防御机制",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字显示警告信息，红色警告闪烁",
+    "background_pure": "背景是虚空的黑暗，金色文字清晰可见"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜，回到现实",
+    "characters": ["林渊"],
+    "action": "林渊靠在床榻，脸色苍白",
+    "emotion": "虚弱、心惊",
+    "dialogues": [],
+    "narration": "林渊靠在床榻上，脸色有些苍白，过度使用能力让他头痛欲裂",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊靠在床榻上，脸色苍白，额头渗出冷汗，一手扶着额头",
+    "background_pure": "破旧的房间，光线昏暗"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊意识到系统反击",
+    "emotion": "恐惧、觉悟",
+    "dialogues": ["【独白】：但更让他心惊的是——系统已经开始反击了！刚才那股意志扫过时，我感到自己的存在被强行点亮了！就像黑夜中的火炬，格外显眼！"],
+    "narration": "林渊意识到系统已经开始反击",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着恐惧和觉悟的光芒",
+    "background_pure": "背景是模糊的房间环境"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊轻声说话",
+    "emotion": "觉悟",
+    "dialogues": ["【林渊】：原来你们不是怕我杀人...", "【林渊】：你们怕的是——该死的人，开始不按时死了。"],
+    "narration": "林渊轻声说道，像是在对那看不见的存在说话",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊靠在床榻上，抬头看着虚空，神情平静而深刻",
+    "background_pure": "房间环境，窗外是黑暗的夜空"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "end",
+    "place": "陈塘关方向，远方",
+    "time": "深夜",
+    "characters": [],
+    "action": "远方传来雷鸣",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "窗外，夜风吹过，远方隐约传来雷鸣，仿佛有什么庞然大物正在缓缓苏醒",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "Eye-level",
+      "movement": "Tilt up",
+      "focus": "远方天际"
+    },
+    "character_layout": "画面没有具体人物，展现远方的天际线，阴云密布，雷鸣阵阵",
+    "background_pure": "陈塘关方向的天空，阴云低垂，偶尔有闪电划过"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "start",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊抬头看向远方",
+    "emotion": "决心",
+    "dialogues": [],
+    "narration": "林渊抬起头，目光越过屋顶，看向更遥远的方向，那里是陈塘关的方向",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Low-angle",
+      "movement": "Tilt up",
+      "focus": "窗外远方"
+    },
+    "character_layout": "林渊站在窗前，抬头看着远方的陈塘关方向，背影显得孤独而坚定",
+    "background_pure": "窗外是黑暗的夜空，远处有隐约的雷光"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "end",
+    "place": "林渊暂住房间",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊做出决定",
+    "emotion": "决心",
+    "dialogues": ["【林渊】：那就从你开始吧。", "【林渊】：让我看看——这张榜，到底有多死板。"],
+    "narration": "林渊笑了笑，眼神坚定",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，眼中闪烁着坚定的光芒，嘴角带着一抹危险的笑容",
+    "background_pure": "背景是黑暗的夜空，远处有雷光闪烁"
+  }
+]

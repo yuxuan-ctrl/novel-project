@@ -1,0 +1,29 @@
+{
+  "project_name": "网文改编漫剧制作流程",
+  "style": "国风动漫版",
+  "chapter_range": "1-5",
+  "generation_type": "剧本+图像提示词（不生成图片）",
+  "start_time": "2025-12-20 19:55:43",
+  "end_time": "2025-12-20 20:10:00",
+  "status": "completed",
+  "steps_completed": [
+    "读取小说章节原文 - 完成",
+    "生成剧本（webtoon-skill） - 完成",
+    "生成图像提示词（image-prompt-skill） - 完成",
+    "汇总Excel文档（excel-generator-skill） - 完成"
+  ],
+  "output_directory": "outputs/run_20251220_195543_anime/",
+  "generated_files": {
+    "scripts": 5,
+    "image_prompts": 5,
+    "excel_file": 1
+  },
+  "total_shots": 42,
+  "episodes_generated": [
+    "第1集 穿成矿奴，金手指觉醒",
+    "第2集 修士死了，封神榜却没动",
+    "第3集 该上榜的人，还没死",
+    "第4集 陈塘关，命数开始加速",
+    "第5集 李府的异常波动"
+  ]
+}

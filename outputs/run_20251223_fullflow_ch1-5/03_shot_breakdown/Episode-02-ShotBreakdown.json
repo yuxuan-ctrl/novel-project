@@ -1,0 +1,686 @@
+[
+  {
+    "scene_id": "scene_001",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊向前踏出半步的瞬间",
+    "emotion": "决绝",
+    "dialogues": [],
+    "narration": "林渊向前踏出半步，脚掌精准踩在第三节点灵力偏移点上",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Low-angle",
+      "movement": "Push in",
+      "focus": "脚部动作"
+    },
+    "character_layout": "林渊跪在画面中央，右脚向前踏出半步，精准踩在血纹交错的某个位置",
+    "background_pure": "地面是血红色的阵法纹路，在林渊脚下那个位置闪烁着不祥的红光"
+  },
+  {
+    "scene_id": "scene_001",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊踩中位置，阵法开始震颤",
+    "emotion": "紧张",
+    "dialogues": [],
+    "narration": "脚掌精准踩在第三节点灵力偏移点上",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pull back",
+      "focus": "整体场景"
+    },
+    "character_layout": "林渊跪在画面中央，右脚踩在血纹交错的位置，周围阵法开始震颤",
+    "background_pure": "血色阵法纹路开始剧烈震颤，发出刺眼的红光，周围石壁随之震动"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": [],
+    "action": "阵法猛地一震，能量逆流",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【音效】轰！阵法猛地一震，血纹骤然逆转",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "High-angle",
+      "movement": "Shake",
+      "focus": "阵法整体"
+    },
+    "character_layout": "画面中央是巨大的血色阵法，阵法纹路正在剧烈震颤，能量逆流形成漩涡",
+    "background_pure": "矿洞内部，石壁在震动，碎石从洞顶落下，血红色的光芒照亮整个空间"
+  },
+  {
+    "scene_id": "scene_002",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": [],
+    "action": "能量像决堤的洪水逆冲而出",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "能量像决堤的洪水，顺着符文逆冲而出",
+    "camera": {
+      "shot_type": "Wide Shot",
+      "angle": "High-angle",
+      "movement": "Follow",
+      "focus": "能量逆流"
+    },
+    "character_layout": "画面中能量流顺着血色符文逆向冲出，形成耀眼的光芒",
+    "background_pure": "矿洞内部被血红色的能量光芒照亮，能量流动形成震撼的视觉效果"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士脸色骤变",
+    "emotion": "惊恐",
+    "dialogues": ["【青袍修士】：怎么可能？！"],
+    "narration": "青袍修士脸色骤变，眼中第一次出现惊恐",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "青袍修士脸部"
+    },
+    "character_layout": "青袍修士面部特写，脸色骤变，瞳孔放大，眼中第一次出现真正的惊恐",
+    "background_pure": "背景是模糊的矿洞环境，血红色光芒从后方照射过来"
+  },
+  {
+    "scene_id": "scene_003",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士意识到阵法反噬",
+    "emotion": "惊恐",
+    "dialogues": ["【青袍修士】：阵法反噬？！"],
+    "narration": "青袍修士意识到发生了什么",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "青袍修士脸部"
+    },
+    "character_layout": "青袍修士面部特写，脸色煞白，嘴唇微微颤抖",
+    "background_pure": "背景是模糊的矿洞环境，血红色光芒越来越亮"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["修士们"],
+    "action": "失控的灵力撞向修士",
+    "emotion": "惊恐",
+    "dialogues": [],
+    "narration": "失控的灵力像决堤的洪水，狠狠撞向阵外的修士",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Shake",
+      "focus": "修士们"
+    },
+    "character_layout": "几名修士站在阵法外，被突如其来的能量逆流冲击，身形不稳",
+    "background_pure": "血色能量流从阵法中冲出，形成耀眼的光芒，照亮整个矿洞"
+  },
+  {
+    "scene_id": "scene_004",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["修士"],
+    "action": "一名修士喷血倒飞",
+    "emotion": "痛苦",
+    "dialogues": [],
+    "narration": "【音效】噗——！最靠近阵法的那名修士当场喷出一口鲜血",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Track",
+      "focus": "受伤修士"
+    },
+    "character_layout": "一名修士被能量冲击，口中喷出鲜血，整个人向后飞出",
+    "background_pure": "血红色的能量光芒照亮场景，鲜血在空中划出弧线"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["修士"],
+    "action": "修士重重砸在地上",
+    "emotion": "痛苦",
+    "dialogues": [],
+    "narration": "整个人倒飞出去，重重砸在地上，鲜血在空中划出凄美的弧线",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "High-angle",
+      "movement": "Static",
+      "focus": "倒地修士"
+    },
+    "character_layout": "修士躺在地上，鲜血从口中流出，双眼圆睁，已经没有生命体征",
+    "background_pure": "地面是粗糙的石板，被鲜血染红，周围是血红色的阵法光芒"
+  },
+  {
+    "scene_id": "scene_005",
+    "frame_type": "end",
+    "place": "陈塘关矿场",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊冷冷看着这一切",
+    "emotion": "冷漠",
+    "dialogues": [],
+    "narration": "【系统面板】生命体征：0.1%...0.05%...0%，结果：抹除成功",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pan right",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊跪在阵法中央，冷冷地看着倒在地上的修士，嘴角带着一丝冷笑",
+    "background_pure": "远处是倒在地上的修士尸体，近处是血红色的阵法光芒"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士身形晃了晃，稳住身形",
+    "emotion": "愤怒、杀意",
+    "dialogues": [],
+    "narration": "青袍修士虽然受了伤，却没有死",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "青袍修士"
+    },
+    "character_layout": "青袍修士站在画面中央，身形微微摇晃，衣服上沾染了血迹，强行稳住身形",
+    "background_pure": "矿洞内部，血红色光芒映照在青袍修士身上，形成诡异的光影"
+  },
+  {
+    "scene_id": "scene_006",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士眼中杀意暴涨",
+    "emotion": "愤怒",
+    "dialogues": ["【青袍修士】：你...你这个怪物！你找死！"],
+    "narration": "青袍修士眼中杀意暴涨，抬手就要凝聚法术",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "青袍修士脸部"
+    },
+    "character_layout": "青袍修士面部特写，眼中闪烁着愤怒的杀意，面容因愤怒而扭曲",
+    "background_pure": "背景是模糊的矿洞环境，血红色光芒从侧面照射"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊视野弹出提示",
+    "emotion": "冷静分析",
+    "dialogues": [],
+    "narration": "【系统面板】目标：炼气期修士，状态：灵力紊乱，致命漏洞：强行施法将引发经脉反噬",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，青袍修士身上闪烁着警告标记：【致命漏洞：强行施法将引发经脉反噬】",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的金色系统文字和警告标记"
+  },
+  {
+    "scene_id": "scene_007",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊抬起头，不再恐惧",
+    "emotion": "自信、冷静",
+    "dialogues": [],
+    "narration": "林渊抬起头，第一次，不再感到恐惧",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Low-angle",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊跪在画面中央，抬起头，眼中闪烁着冷静的光芒，嘴角微微上扬",
+    "background_pure": "背景是模糊的矿洞环境，远处是青袍修士的身影"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊开口说话",
+    "emotion": "嘲讽",
+    "dialogues": ["【林渊】：你这个法术——"],
+    "narration": "林渊声音沙哑，却异常清晰",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Low-angle",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊跪在画面中央，仰视着远处的青袍修士，神情带着一丝嘲讽",
+    "background_pure": "背景是模糊的矿洞环境，远处是青袍修士的身影"
+  },
+  {
+    "scene_id": "scene_008",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊指出法术漏洞",
+    "emotion": "嘲讽、自信",
+    "dialogues": ["【林渊】：写错了。第三行的能量转换比例应该是1:3，你写成了3:1。啧啧，这种低级错误，实习生都不会犯。"],
+    "narration": "林渊顿了顿，眼中闪过程序员特有的恶趣味",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，嘴角勾起一抹嘲讽的笑容，眼中闪烁着智慧的光芒",
+    "background_pure": "背景是模糊的矿洞环境"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士脸色煞白",
+    "emotion": "震惊、恐惧",
+    "dialogues": [],
+    "narration": "这句话像一把锋利的刀，精准刺入青袍修士的心脏",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "青袍修士脸部"
+    },
+    "character_layout": "青袍修士面部特写，脸色瞬间煞白，瞳孔放大，嘴唇微微张开",
+    "background_pure": "背景是模糊的矿洞环境，光线从侧面照射形成明暗对比"
+  },
+  {
+    "scene_id": "scene_009",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士意识到法术漏洞",
+    "emotion": "恐惧",
+    "dialogues": ["【青袍修士】：你...你怎么可能..."],
+    "narration": "修士声音都在颤抖，冷汗瞬间湿透了后背",
+    "camera": {
+      "shot_type": "Extreme Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "青袍修士表情"
+    },
+    "character_layout": "青袍修士面部极特写，额头渗出冷汗，眼神中充满恐惧",
+    "background_pure": "背景昏暗，只有微弱的光线照亮修士的脸部"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊解释自己能看到",
+    "emotion": "自信",
+    "dialogues": ["【林渊】：怎么可能？因为我和你不一样。你只会照着祖传的配置文件施法，根本不理解底层原理。而我..."],
+    "narration": "林渊冷笑着解释",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Low-angle",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊跪在画面中央，神情自信，声音沙哑但清晰",
+    "background_pure": "背景是模糊的矿洞环境，远处是青袍修士的身影"
+  },
+  {
+    "scene_id": "scene_010",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊指着自己的眼睛",
+    "emotion": "自信、嘲讽",
+    "dialogues": ["【林渊】：我看得见。"],
+    "narration": "林渊指了指自己的眼睛",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊动作"
+    },
+    "character_layout": "林渊面部特写，右手食指指向自己的眼睛，眼中闪烁着智慧的光芒",
+    "background_pure": "背景是模糊的矿洞环境"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士心理防线崩溃",
+    "emotion": "恐惧、崩溃",
+    "dialogues": [],
+    "narration": "这句话成了压垮修士心理防线的最后一根稻草",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "青袍修士脸部"
+    },
+    "character_layout": "青袍修士面部特写，瞳孔骤缩，脸上的表情从震惊转为彻底的恐惧",
+    "background_pure": "背景是模糊的矿洞环境，光线昏暗"
+  },
+  {
+    "scene_id": "scene_011",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法外",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "青袍修士转身逃跑",
+    "emotion": "恐惧",
+    "dialogues": ["【青袍修士】：你...你是什么人？"],
+    "narration": "不等林渊回答，修士转身就逃",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Track",
+      "focus": "逃跑的修士"
+    },
+    "character_layout": "青袍修士转身向矿洞出口跑去，身形踉跄，显得慌乱",
+    "background_pure": "矿洞内部，血红色光芒将修士的背影映照得诡异"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊眼中闪过冷笑",
+    "emotion": "冷笑",
+    "dialogues": ["【林渊】：想走？"],
+    "narration": "林渊眼中闪过一丝冷笑",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊跪在画面中央，看着逃跑的修士，嘴角勾起一抹冷笑",
+    "background_pure": "背景是模糊的矿洞环境，远处是修士逃跑的背影"
+  },
+  {
+    "scene_id": "scene_012",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊抬手准备干预",
+    "emotion": "决绝",
+    "dialogues": ["【林渊】：看了我的代码，就想一走了之？"],
+    "narration": "林渊抬起手，对着修士的后心轻轻一点",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊手势"
+    },
+    "character_layout": "林渊面部和手部特写，右手食指指向远处，眼中闪烁着决绝的光芒",
+    "background_pure": "背景是模糊的矿洞环境"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊发送干预指令",
+    "emotion": "痛苦但坚决",
+    "dialogues": [],
+    "narration": "【系统面板】指令发送中...精神力消耗：10点，剩余精神力：25/100",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，因为消耗精神力而显得痛苦，但眼神依然坚定",
+    "background_pure": "背景是模糊的矿洞环境，金色系统文字在视野中浮现"
+  },
+  {
+    "scene_id": "scene_013",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊完成指令",
+    "emotion": "虚弱但满足",
+    "dialogues": ["【林渊】：终止信号！"],
+    "narration": "林渊感到一阵眩晕，但还是强行完成了指令",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊脸部"
+    },
+    "character_layout": "林渊面部特写，脸色苍白，额头上渗出冷汗，但嘴角带着满足的笑意",
+    "background_pure": "背景是模糊的矿洞环境"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "start",
+    "place": "陈塘关矿场",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "逃跑中的修士猛地僵住",
+    "emotion": "恐惧、难以置信",
+    "dialogues": [],
+    "narration": "逃跑中的青袍修士猛地僵住，脸上写满了难以置信的恐惧",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Back view",
+      "movement": "Static",
+      "focus": "修士背影"
+    },
+    "character_layout": "青袍修士背对画面，身体僵硬地停在原地，双手紧紧抓住胸口",
+    "background_pure": "矿洞通道，地面是粗糙的石板，远处有微弱的光线"
+  },
+  {
+    "scene_id": "scene_014",
+    "frame_type": "end",
+    "place": "陈塘关矿场",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "修士感觉到灵力彻底失控",
+    "emotion": "绝望",
+    "dialogues": ["【青袍修士】：不...不！！"],
+    "narration": "修士感觉自己的经脉像被无数只手死死抓住，灵力彻底失控",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Back view",
+      "movement": "Push in",
+      "focus": "修士背影"
+    },
+    "character_layout": "青袍修士背对画面，身体微微颤抖，双手紧紧抓住胸口的衣服",
+    "background_pure": "矿洞通道，光线昏暗"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "start",
+    "place": "陈塘关矿场",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "血光从修士后背炸开",
+    "emotion": "震撼",
+    "dialogues": [],
+    "narration": "【音效】轰！一道血光从他后背炸开",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Back view",
+      "movement": "Shake",
+      "focus": "修士"
+    },
+    "character_layout": "青袍修士背对画面，血红色的光芒从后背炸开，形成耀眼的视觉效果",
+    "background_pure": "矿洞通道被血红色的光芒照亮"
+  },
+  {
+    "scene_id": "scene_015",
+    "frame_type": "end",
+    "place": "陈塘关矿场",
+    "time": "深夜",
+    "characters": ["青袍修士"],
+    "action": "修士像断线风筝飞出",
+    "emotion": "失去生命力",
+    "dialogues": [],
+    "narration": "整个人像断线的风筝一样飞了出去，当场气绝",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Track",
+      "focus": "飞出的修士"
+    },
+    "character_layout": "修士身体在空中翻滚，然后重重摔在地上，已经没有生命体征",
+    "background_pure": "地面是粗糙的石板，周围是阴暗的矿洞环境"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊踉跄扶住墙壁",
+    "emotion": "虚弱",
+    "dialogues": [],
+    "narration": "【系统面板】进程终止：修士（张三），原因：远程代码执行失败，警告：精神力过低",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊踉跄了一下，扶住墙壁才没有倒下，脸色苍白",
+    "background_pure": "矿洞内部，血红色阵法光芒逐渐暗淡"
+  },
+  {
+    "scene_id": "scene_016",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊看到新的系统提示",
+    "emotion": "震惊",
+    "dialogues": [],
+    "narration": "【系统面板】警告：检测到非法篡改，目标：青袍修士，预定命运：今日午时死于阵法反噬，当前状态：生命体征存在，命运轨迹偏移",
+    "camera": {
+      "shot_type": "POV Shot",
+      "angle": "POV",
+      "movement": "Static",
+      "focus": "虚拟界面"
+    },
+    "character_layout": "画面呈现林渊的主观视角，金色系统文字悬浮：【预定命运：今日午时死于阵法反噬】",
+    "background_pure": "视野边缘是模糊的矿洞环境，中央是清晰的金色系统文字"
+  },
+  {
+    "scene_id": "scene_017",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊瞳孔骤缩",
+    "emotion": "震惊",
+    "dialogues": ["【独白】：这个修士...本来就该死？而且是预定要死的？"],
+    "narration": "林渊瞳孔骤缩，意识到一个荒谬的事实",
+    "camera": {
+      "shot_type": "Extreme Close-up",
+      "angle": "Eye-level",
+      "movement": "Push in",
+      "focus": "林渊眼睛"
+    },
+    "character_layout": "林渊眼部极特写，瞳孔骤缩，眼中闪烁着震惊的光芒",
+    "background_pure": "背景是模糊的矿洞环境"
+  },
+  {
+    "scene_id": "scene_017",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊握紧拳头，理解真相",
+    "emotion": "顿悟",
+    "dialogues": ["【独白】：我刚才不是杀人，而是——延迟了一个定时任务的执行？"],
+    "narration": "一个荒谬的念头浮现在林渊脑海",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊"
+    },
+    "character_layout": "林渊靠在墙壁上，右手握紧拳头，眼中闪烁着理解的光芒",
+    "background_pure": "矿洞内部，血红色阵法光芒已经暗淡，环境变得昏暗"
+  },
+  {
+    "scene_id": "scene_018",
+    "frame_type": "start",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊握紧拳头",
+    "emotion": "决心",
+    "dialogues": [],
+    "narration": "林渊握紧了拳头，原来如此",
+    "camera": {
+      "shot_type": "Close-up",
+      "angle": "Eye-level",
+      "movement": "Static",
+      "focus": "林渊拳头"
+    },
+    "character_layout": "林渊右手握紧拳头特写，指节发白，手臂上青筋微微凸起",
+    "background_pure": "背景是模糊的矿洞环境"
+  },
+  {
+    "scene_id": "scene_018",
+    "frame_type": "end",
+    "place": "陈塘关矿场血祭阵法",
+    "time": "深夜",
+    "characters": ["林渊"],
+    "action": "林渊理解封神榜BUG",
+    "emotion": "顿悟、兴奋",
+    "dialogues": ["【独白】：修士死了，但封神榜却没有反应。不是因为它没反应，而是因为它的程序出现了BUG。而我，就是这个BUG的发现者。"],
+    "narration": "林渊终于明白了封神榜的秘密",
+    "camera": {
+      "shot_type": "Medium Shot",
+      "angle": "Eye-level",
+      "movement": "Pull back",
+      "focus": "林渊全身"
+    },
+    "character_layout": "林渊靠在墙壁上，眼中闪烁着兴奋的光芒，嘴角勾起一抹笑容",
+    "background_pure": "矿洞内部，阵法已经完全停止运转，环境变得昏暗"
+  }
+]
