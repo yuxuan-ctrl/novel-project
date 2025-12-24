@@ -1,0 +1,197 @@
+{
+  "episode": 1,
+  "total_shots": 24,
+  "generated": 24,
+  "status": "completed",
+  "engine": "doubao-seedream-4-0-250828",
+  "style": "chinese-anime",
+  "timestamp": "2025-12-23T23:40:00",
+  "images": [
+    {
+      "shot_number": "shot_001",
+      "filename": "Episode-01-Shot-001.png",
+      "status": "generated",
+      "description": "陈塘关矿场地下深处阵法环境",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_002",
+      "filename": "Episode-01-Shot-002.png",
+      "status": "generated",
+      "description": "林渊在阵法中央",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_003",
+      "filename": "Episode-01-Shot-003.png",
+      "status": "generated",
+      "description": "系统面板UI",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_004",
+      "filename": "Episode-01-Shot-004.png",
+      "status": "generated",
+      "description": "青袍修士在场外",
+      "has_character": true,
+      "character": "青袍修士"
+    },
+    {
+      "shot_number": "shot_005",
+      "filename": "Episode-01-Shot-005.png",
+      "status": "generated",
+      "description": "现代办公室场景",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_006",
+      "filename": "Episode-01-Shot-006.png",
+      "status": "generated",
+      "description": "林渊在现代办公室",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_007",
+      "filename": "Episode-01-Shot-007.png",
+      "status": "generated",
+      "description": "代码流界面",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_008",
+      "filename": "Episode-01-Shot-008.png",
+      "status": "generated",
+      "description": "林渊觉醒-数据流视角",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_009",
+      "filename": "Episode-01-Shot-009.png",
+      "status": "generated",
+      "description": "阵法分析报告界面",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_010",
+      "filename": "Episode-01-Shot-010.png",
+      "status": "generated",
+      "description": "阵法能量攀升",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_011",
+      "filename": "Episode-01-Shot-011.png",
+      "status": "generated",
+      "description": "林渊踏出关键一步",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_012",
+      "filename": "Episode-01-Shot-012.png",
+      "status": "generated",
+      "description": "阵法反噬",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_013",
+      "filename": "Episode-01-Shot-013.png",
+      "status": "generated",
+      "description": "修士被击飞",
+      "has_character": true,
+      "character": "青袍修士"
+    },
+    {
+      "shot_number": "shot_014",
+      "filename": "Episode-01-Shot-014.png",
+      "status": "generated",
+      "description": "林渊与修士对峙",
+      "has_character": true,
+      "characters": ["林渊", "青袍修士"]
+    },
+    {
+      "shot_number": "shot_015",
+      "filename": "Episode-01-Shot-015.png",
+      "status": "generated",
+      "description": "林渊掌控局势",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_016",
+      "filename": "Episode-01-Shot-016.png",
+      "status": "generated",
+      "description": "修士震惊",
+      "has_character": true,
+      "character": "青袍修士"
+    },
+    {
+      "shot_number": "shot_017",
+      "filename": "Episode-01-Shot-017.png",
+      "status": "generated",
+      "description": "林渊指眼睛",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_018",
+      "filename": "Episode-01-Shot-018.png",
+      "status": "generated",
+      "description": "修士逃跑",
+      "has_character": true,
+      "character": "青袍修士"
+    },
+    {
+      "shot_number": "shot_019",
+      "filename": "Episode-01-Shot-019.png",
+      "status": "generated",
+      "description": "林渊远程攻击",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_020",
+      "filename": "Episode-01-Shot-020.png",
+      "status": "generated",
+      "description": "修士被击杀",
+      "has_character": true,
+      "character": "青袍修士"
+    },
+    {
+      "shot_number": "shot_021",
+      "filename": "Episode-01-Shot-021.png",
+      "status": "generated",
+      "description": "天空系统文字",
+      "has_character": false
+    },
+    {
+      "shot_number": "shot_022",
+      "filename": "Episode-01-Shot-022.png",
+      "status": "generated",
+      "description": "林渊抬头看天空",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_023",
+      "filename": "Episode-01-Shot-023.png",
+      "status": "generated",
+      "description": "林渊握拳",
+      "has_character": true,
+      "character": "林渊"
+    },
+    {
+      "shot_number": "shot_024",
+      "filename": "Episode-01-Shot-024.png",
+      "status": "generated",
+      "description": "结尾远景-林渊在废墟中",
+      "has_character": true,
+      "character": "林渊"
+    }
+  ],
+  "notes": "所有图像已使用doubao-seedream-4-0-250828引擎生成，采用中国动漫风格，分辨率1024x576（16:9比例）。"
+}
